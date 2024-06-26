@@ -1,0 +1,1 @@
+Si hay algún problema con la URL proporcionada para descargar la distribución Anaconda, inserta esta URL: https://www.anaconda.com/download
